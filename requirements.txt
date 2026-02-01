@@ -1,0 +1,2 @@
+# No Python dependencies - uses only standard library
+# Requires: ffmpeg (brew install ffmpeg)
